@@ -7,7 +7,7 @@ author_profile: true
 
 Check my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=89EzjOcAAAAJ) for more information!
 
-(* Corresponding authors. Listed reverse chronologically.)
+(* Corresponding author. Listed reverse chronologically.)
 
 ## Manuscripts
 *   **Functionalization and prediction of end milling surface topography based on a quantitative indicator of chatter and forced vibration**  
