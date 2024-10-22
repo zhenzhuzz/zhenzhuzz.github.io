@@ -18,7 +18,8 @@ main:
     url: /activities/  
     
   - title: "CV"
-    url: /cv/
+    url: /CV_ZhenZhu.pdf/
+    # url: /cv/
     
   # - title: "Teaching"
   #   url: /teaching/    
