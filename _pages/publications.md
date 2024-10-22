@@ -7,7 +7,7 @@ author_profile: true
 
 Check my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=89EzjOcAAAAJ) for more information!
 
-(* Authors to whom correspondence should be addressed. Listed reverse chronologically.)
+(* Corresponding authors. Listed reverse chronologically.)
 
 ## Manuscripts
 *   **Functionalization and prediction of end milling surface topography based on a quantitative indicator of chatter and forced vibration**  
@@ -23,4 +23,4 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?hl=en&use
 ## Publications
 *   **[A rapid method to quantify high-frequency-domain signals based on fixed-interval fractal dimension](https://doi.org/10.3390/fractalfract8080455)**  
     ***Fractal and Fractional*** (IF=3.6, JCR-Q1)  
-    Feng Feng*, Xinguo Song, Yu Zhang, **<font color="blue">Zhen Zhu</font>**, Heng Wu, Pingfa Feng*  
+    Feng Feng\*, Xinguo Song, Yu Zhang, **<font color="blue">Zhen Zhu</font>**, Heng Wu, Pingfa Feng\*  
