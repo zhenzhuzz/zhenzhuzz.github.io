@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhen Zhu / Site Title"
+title                    : "Zhen Zhu（朱镇）"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -37,7 +37,7 @@ author:
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Zhu-Zhen-13"
+  # researchgate     : "https://www.researchgate.net/profile/Zhu-Zhen-13"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
