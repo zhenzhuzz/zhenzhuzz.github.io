@@ -12,7 +12,7 @@ author_profile: true
 <div class="global-grid">
   <div class="program">
     <h3 class="program-title">Academic Exchange to Institute of Machine Tools and Factory Management (IWF), Technische Universität Berlin (TUB) and Fraunhofer IPK</h3>
-    <p><em>Berlin, Germany</em><br>Aug, 2024</p>
+    <p class="locdate"><em>Berlin, Germany</em><br>Aug, 2024</p>
     <p class="feeling-section">Learned about advanced manufacturing techniques such as additive manufacturing and robotic machining, and gained insight into Germany’s industrial and academic landscape.</p>
     <div class="program-images">
       <img src="/images/TUB-1.jpg" alt="TUB Image 1" class="program-image">
@@ -22,7 +22,7 @@ author_profile: true
 
   <div class="program">
     <h3 class="program-title">Delegate at Yenching Global Symposium 2024 (YGS 2024)</h3>
-    <p><em>Beijing, China</em><br>Apr, 2024</p>
+    <p class="locdate"><em>Beijing, China</em><br>Apr, 2024</p>
     <p class="feeling-section">Discussed global issues such as climate change and technological innovation, focusing on sustainable futures and inclusive development.</p>
     <div class="program-images">
       <img src="/images/YGS-1.jpg" alt="YGS Image 1" class="program-image">
@@ -32,7 +32,7 @@ author_profile: true
 
   <div class="program">
     <h3 class="program-title">Delegate at Global Youth Conference Dubai 2023</h3>
-    <p><em>Dubai, UAE</em><br>Dec, 2023</p>
+    <p class="locdate"><em>Dubai, UAE</em><br>Dec, 2023</p>
     <p class="feeling-section">Had insightful discussions on empowering youth leadership for climate action.</p>
     <div class="program-images">
       <img src="/images/Dubai-1.jpg" alt="Dubai Image 1" class="program-image">
@@ -42,7 +42,7 @@ author_profile: true
 
   <div class="program">
     <h3 class="program-title">Core-organizer at 1st Tsinghua Global Youth Dialogue</h3>
-    <p><em>Shenzhen-Chengdu-Beijing, China</em><br>Aug, 2023</p>
+    <p class="locdate"><em>Shenzhen-Chengdu-Beijing, China</em><br>Aug, 2023</p>
     <p class="feeling-section">Engaged with global youths on pressing issues, realizing the importance of youth-led dialogues in addressing global challenges.</p>
     <div class="program-images">
       <img src="/images/TGYD-1.jpg" alt="TGYD Image 1" class="program-image">
@@ -52,7 +52,7 @@ author_profile: true
 
   <div class="program">
     <h3 class="program-title">Participant at Entrepreneurship Bootcamp held by Hong Kong University of Science and Technology (HKUST)</h3>
-    <p><em>Hong Kong, China</em><br>Jul, 2023</p>
+    <p class="locdate"><em>Hong Kong, China</em><br>Jul, 2023</p>
     <p class="feeling-section">Attended meaningful sessions and engaged with the local startup environment.</p>
     <div class="program-images">
       <img src="/images/HKUST-1.jpg" alt="HKUST Image 1" class="program-image">
@@ -62,7 +62,7 @@ author_profile: true
 
   <div class="program">
     <h3 class="program-title">Academic Exchange to University of Auckland</h3>
-    <p><em>Auckland, New Zealand</em><br>Nov, 2019</p>
+    <p class="locdate"><em>Auckland, New Zealand</em><br>Nov, 2019</p>
     <p class="feeling-section">Gained deep insight into the local academic culture and explored research opportunities.</p>
     <div class="program-images">
       <img src="/images/UniversityofAuckland-1.jpg" alt="University of Auckland Image 1" class="program-image">
@@ -72,32 +72,41 @@ author_profile: true
 </div>
 
 <style>
+
+  .intro-text {
+      margin-top: 20px;
+      margin-bottom: 20px; /* Controls the space between the introduction and the first title */
+  }
+  
   .global-grid {
     display: flex;
     flex-direction: column;
-    gap: 20px; /* Narrowed the vertical space between sections */
+    gap: 30px; /* Narrowed the vertical space between sections */
   }
 
   .program {
     text-align: left;
-    margin-bottom: 15px; /* Reduced space between programs */
+/*     margin-top: 20px; /* Reduced space between programs */
+    margin-bottom: 20px; /* Reduced space between programs */ */
   }
 
   .program-title {
       font-size: 1.3em; /* Font size for the program titles */
-      margin-bottom: 3px; /* Controls space between title and location */
+/*       margin-bottom: 3px; /* Controls space between title and location */ */
   }
 
-  .program p {
-    margin-bottom: 3px; /* Controls space between date and feeling */
+  .program-locdate {
+    margin-top: 3px; /* Adjust space above the location */
+    margin-bottom: 3px; /* Adjust space below the location if needed */
   }
-  
-  .feeling-section {
+
+   .feeling-section {
       font-family: "Georgia", serif; /* Special font for feeling section */
       font-weight: bold; /* Make the font bold */
       color: #555; /* Slightly muted color for emphasis */
+      margin-bottom: 5px;
   }
-
+  
 
   .program-images {
     display: flex;
@@ -110,18 +119,6 @@ author_profile: true
     object-fit: cover; /* Maintain aspect ratio, crop if necessary */
   }
 
-  .intro-text {
-      margin-bottom: 15px;
-      margin-bottom: 15px; /* Controls the space between the introduction and the first title */
-  }
-  
-  
-
-
-  
-  .program-title {
-      margin-top: 10px; /* Adjust the space between the title and any text before it */
-  }
 
   
 </style>
