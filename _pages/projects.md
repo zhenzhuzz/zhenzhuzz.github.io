@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-1. ![Automatic Parking System Image](assets/img/parking_demo_sample_1.gif)
+1. ![Automatic Parking System Image](images/parking_demo_sample_1.gif)
    **Automatic Parking System: Dynamics Model, MPC Control and Hybrid A* Planning for Self-parking Vehicles**  
    *ROB 599: Autonomous Vehicles, directed by Prof. Anouck Girard*  
    _09/2023 ~ 12/2023, University of Michigan_  
