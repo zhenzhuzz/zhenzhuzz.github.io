@@ -15,7 +15,7 @@ My research interests lie broadly in **Micro-Nano Fabrication and Measurement**,
 
 ## Recent News
 * *Oct, 2024.* **Functionalization and prediction of end milling surface topography based on a quantitative indicator of chatter and forced vibration** under review by **International Journal of Machine Tools and Manufacture** (IF=14, JCR-Q1)!
-* *Oct, 2024.* Awarded **First-class Scholarship for Comprehensive Performance** by Tsinghua!
+* *Oct, 2024.* Awarded **Second-class Scholarship for Comprehensive Performance** by Tsinghua!
 * *Aug, 2024.* Visiting [**Prof. Eckart Uhlmann**](https://www.ipk.fraunhofer.de/en/about-us/director.html) @ Fraunhofer IPK & IWF, TU Berlin!
 * *Jul, 2024.* [**A Rapid Method to Quantify High-Frequency-Dominant Signals Based on Fixed-Interval Fractal Dimension**](https://doi.org/10.3390/fractalfract8080455) accepted by **Fractal and Fractional** (IF=3.6, JCR-Q1)!
 * *Apr, 2024.* Attending [**Yenching Global Symposium (YGS) 2024**](https://www.yenchingglobalsymposium.com/) as delegate, held by Peking University in Beijing!
