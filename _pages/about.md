@@ -18,6 +18,7 @@ My research interests lie broadly in **Micro-Nano Fabrication and Measurement**,
 * *Oct, 2024.* Awarded **First-class Scholarship for Comprehensive Performance** by Tsinghua!
 * *Aug, 2024.* Visiting [**Prof. Eckart Uhlmann**](https://www.ipk.fraunhofer.de/en/about-us/director.html) @ Fraunhofer IPK & IWF, TU Berlin!
 * *Jul, 2024.* [**A Rapid Method to Quantify High-Frequency-Dominant Signals Based on Fixed-Interval Fractal Dimension**](https://doi.org/10.3390/fractalfract8080455) accepted by **Fractal and Fractional** (IF=3.6, JCR-Q1)!
+* *Apr, 2024.* Attending [**Yenching Global Symposium (YGS) 2024**](https://www.yenchingglobalsymposium.com/) as delegate, held by Peking University in Beijing!
 * *Apr, 2024.* Completed the setup of lab's **1st Robotic Machining System (ABB IRB6700)** for milling and drilling, achieving 0.3 mm average absolute error. Developed ABB's PC SDK application with motion command delay under 7 ms.
 * *Dec, 2023.* Visiting [**COP28 UN Climate Change Conference**](https://unfccc.int/cop28/) in Dubai, UAE!
 * *Oct, 2023.* Awarded **First-class Scholarship for Comprehensive Performance** by Tsinghua!
