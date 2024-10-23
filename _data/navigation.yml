@@ -14,8 +14,8 @@ main:
   - title: "Projects"
     url: /projects/  
     
-  - title: "Activities"
-    url: /portfolio/  
+  - title: "Global"
+    url: /global/  
     
   - title: "CV (PDF)"
     url: /CV_ZhenZhu.pdf
