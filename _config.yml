@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhen Zhu（朱镇）"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Zhen Zhu（朱镇）"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "zhenzhuzz/zhenzhuzz.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Zhen Zhu"
+  name             : "Zhen Zhu （朱镇）"
   pronouns         : # example: "he/him"  
   bio              : "Seeking PhD program in Micro-Nano Fabrication and Measurement"
   location         : "Shenzhen, Guangdong"
