@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "Selected Awards"
 permalink: /awards/
 author_profile: true
 ---
 
-## Scholarship
+## Awards and Hornors
 * **Second-class Scholarship for Comprehensive Performance**, Tsinghua University, 2024.  
-* **First-class Scholarship for Comprehensive Performance**, Tsinghua University, 2023.  
+* **First-class Scholarship for Comprehensive Performance**, Tsinghua University, 2023.
+* **Academic Newcomer**, Tsinghua University, 2023.
+* **Outstanding Graduate**, Tianjin Ministry of Education, Tianjin University, 2022.
+  *Great hornor for TJU graduates. 2 students per major.*
 * **National Scholarship**, Ministry of Education, 2021.  
   *Top scholarship in China. 0.2% domestically.*
 * **CASC Scholarship**, Tianjin University, 2020.  
