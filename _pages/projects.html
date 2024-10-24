@@ -130,7 +130,7 @@ author_profile: true
   /* Image container */
   .image-container {
       position: relative;
-      width: 220px; /* Fixed width */
+      width: 180px; /* Fixed width */
       height: auto; /* Allow the height to be dynamic based on content */
       flex-grow: 1; /* Allow the image container to stretch with the text container */
       overflow: hidden;
@@ -142,14 +142,14 @@ author_profile: true
   .image-content {
       width: 100%;
       height: auto;
-      object-fit: contain; /* Ensure the image/video fits the container without cropping */
+      object-fit: cover; /* Ensure the image/video fits the container without cropping */
       align-self: flex-start; /* Align the image content to the top */
   }
 
   /* Text container */
   .text-container {
       flex: 1;
-      padding-right: 15px;
+      padding-right: 0px;
       padding-left: 20px;
       display: flex;
       flex-direction: column;
