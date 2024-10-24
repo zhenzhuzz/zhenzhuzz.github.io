@@ -143,8 +143,8 @@ author_profile: true
   /* Image container */
   .image-container {
       position: relative;
-      width: 100px; /* Fixed width */
-      height: auto; /* Allow the height to be dynamic based on content */
+      width: 400px; /* Fixed width */
+      height: 225px; /* Allow the height to be dynamic based on content */
       flex-grow: 1; /* Allow the image container to stretch with the text container */
       overflow: hidden;
       display: flex;
@@ -153,9 +153,9 @@ author_profile: true
 
   /* Image content */
   .image-content {
-      width: 100%;
-      height: auto;
-      object-fit: cover; /* Ensure the image/video fits the container without cropping */
+      width: auto;
+      height: 100%;
+      object-fit: contain; /* Ensure the image/video fits the container without cropping */
       align-self: flex-start; /* Align the image content to the top */
   }
 
