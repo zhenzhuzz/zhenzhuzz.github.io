@@ -24,6 +24,6 @@ My research interests lie broadly in **Micro-Nano Fabrication and Measurement**,
 * *Oct, 2023.* Awarded **First-class Scholarship for Comprehensive Performance** by Tsinghua!
 * *Aug, 2023.* Organizing [**1st Tsinghua Global Youth Dialogue (TGYD)**](https://goglobal.tsinghua.edu.cn/tgyd/) across Shenzhen, Chengdu, and Beijing, as one of three core organizers and co-founder!
 * *Jul, 2023.* Attending [**1st Entrepreneurship Bootcamp**](https://ec.hkust.edu.hk/entrepreneurship-bootcamp) held by Hong Kong University of Science and Technology (HKUST) Entrepreneurship Center!
-* *Jul, 2022.* Graduated from Tianjin University with honor: awarded **Outstanding Graduate** by Tianjin University!
+* *Jul, 2022.* Graduated from Tianjin University with honor: awarded **Outstanding Graduate** by Tianjin Ministry of Education, by Tianjin University!
 * *Oct, 2021.* Awarded **National Scholarship** by Ministry of Education, top scholarship in China, 0.2% domestically!
 * *Oct, 2020.* Awarded **CASC Scholarship** by Tianjin University, top scholarship for TJU sophomores, 1 student per major!
