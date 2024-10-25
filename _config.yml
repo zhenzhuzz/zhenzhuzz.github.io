@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Zhen Zhu（朱镇）"
 title_separator          : "-"
 name                     : &name "Zhen Zhu（朱镇）"
 description              : &description "personal description"
