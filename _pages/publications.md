@@ -11,7 +11,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?hl=en&use
 
 ## Manuscripts
 *   **Functionalization and prediction of end milling surface topography based on a quantitative indicator of chatter and forced vibration**  
-    ***International Journal of Machine Tools and Manufacture*** (IF=14, JCR-Q1, first author is advisor)  
+    ***International Journal of Machine Tools and Manufacture*** (IF=14, JCR-Q1, first author is supervisor)  
     Feng Feng, **<font color="blue">Zhen Zhu</font>**, Meng Yuan, Kai Zhou, Julian Blumberg, Enlai Jiang, Eckart Uhlmann, Pingfa Feng\*  
     *Under Review, Second Submit*.
 
