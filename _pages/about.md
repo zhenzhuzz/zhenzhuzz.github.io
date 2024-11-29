@@ -11,7 +11,7 @@ Hi! I am a third-year Master's student at [**Tsinghua University (THU)**](https:
 
 Prior to Tsinghua, I graduated from [**Tianjin University (TJU)**](https://www.tju.edu.cn/english/) in June 2022 with a Bachelor's degree in Mechanical Engineering. I am grateful to [**Prof Shuxin Wang**](https://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1460), [**Prof. Yanhui Wang**](https://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1768), and [**Prof. Fujun Wang**](https://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1778) for offering me research experience and opportunities to participate in their programs.
 
-My research interests lie broadly in **Micro-Nano Fabrication and Measurement**, particularly Semiconductor Manufacturing, Photonics, Nonlinear Optics, and Metasurfaces, and I am seeking a PhD program in this field. I am also familiar with **Precision/Intelligent Manufacturing**, including Robotic Machining, Ultrasonic Machining, Signal Processing, Dynamics and Mechanics, Surface Engineering， Physical Mechanism Combined Neural Network -- check my [**publications**](publications) or [**CV (PDF)**](CV_ZhenZhu.pdf) for more information. I am open to relevant PhD opportunities, so feel free to reach out.
+My research interests lie broadly in **Micro-Nano Fabrication and Measurement**, particularly Semiconductor Manufacturing, Photonics, Nonlinear Optics, and Metasurfaces, and I am seeking a PhD program in this field. I am also familiar with **Precision/Intelligent Manufacturing**, including Robotic Machining, Ultrasonic Machining, Signal Processing, Dynamics and Mechanics, Surface Engineering，Physical Mechanism Combined Neural Network -- check my [**publications**](publications) or [**CV (PDF)**](CV_ZhenZhu.pdf) for more information. I am open to relevant PhD opportunities, so feel free to reach out.
 
 ## Recent News
 * *Oct, 2024.* **Functionalization and prediction of end milling surface topography based on a quantitative indicator of chatter and forced vibration** under review by **International Journal of Machine Tools and Manufacture** (IF=14, JCR-Q1)!
@@ -21,7 +21,7 @@ My research interests lie broadly in **Micro-Nano Fabrication and Measurement**,
 * *Apr, 2024.* Attending [**Yenching Global Symposium (YGS) 2024**](https://www.yenchingglobalsymposium.com/) as delegate, held by Peking University in Beijing!
 * *Apr, 2024.* Completed the setup of lab's **1st Robotic Machining System (ABB IRB6700)** for milling and drilling, achieving 0.3 mm average absolute error. Developed ABB's PC SDK application with motion command delay under 7 ms.
 * *Dec, 2023.* Visiting [**COP28 UN Climate Change Conference**](https://unfccc.int/cop28/) in Dubai, UAE!
-* *Oct, 2023.* Awarded **First-class Scholarship for Comprehensive Performance** by Tsinghua!
+* *Oct, 2023.* Awarded **Second-class Scholarship for Comprehensive Performance** by Tsinghua!
 * *Aug, 2023.* Organizing [**1st Tsinghua Global Youth Dialogue (TGYD)**](https://goglobal.tsinghua.edu.cn/tgyd/) across Shenzhen, Chengdu, and Beijing, as one of three core organizers and co-founder!
 * *Jul, 2023.* Attending [**1st Entrepreneurship Bootcamp**](https://ec.hkust.edu.hk/entrepreneurship-bootcamp) held by Hong Kong University of Science and Technology (HKUST) Entrepreneurship Center!
 * *Jul, 2022.* Graduated from Tianjin University with honor: awarded **Outstanding Graduate** by Tianjin Ministry of Education, by Tianjin University!
